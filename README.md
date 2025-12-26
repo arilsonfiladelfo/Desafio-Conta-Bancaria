@@ -32,8 +32,11 @@ Ao iniciar o programa, o sistema exibe:
 Em seguida, um menu de opções é apresentado:
 
 1 - Consultar saldo
+
 2 - Receber valor
+
 3 - Transferir valor
+
 4 - Sair
 
 
